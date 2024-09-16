@@ -30,7 +30,7 @@
     "ember-destroyable-polyfill": "^2.0.3",
     "ember-modifier": "^2.1.2 || ^3.0.0 || ^4.0.0",
     "fast-deep-equal": "^2.0.1",
-    "intersection-observer-admin": "~0.3.2",
+    "intersection-observer-admin": "^0.3.4",
     "raf-pool": "~0.1.4"
   },
   "devDependencies": {
